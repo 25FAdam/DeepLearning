@@ -76,7 +76,7 @@ Each notebook corresponds to a project phase. We began with a provided template 
 
 ## Final Report Summary
 
-This section summarizes our findings and methodology as presented in the full [final report](). The project explored progressively complex deep learning approaches for object classification in satellite imagery.
+This section summarizes our findings and methodology as presented in the full [final report](https://github.com/25FAdam/DeepLearning/blob/main/DeepLearning_JT_AF_ML_finalReport.pdf). The project explored progressively complex deep learning approaches for object classification in satellite imagery.
 
   ### Phase 1: Feedforward Neural Networks (ffNN)
 
