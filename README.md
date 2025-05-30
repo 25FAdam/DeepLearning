@@ -30,10 +30,6 @@ Testing and final evaluation were conducted via [Codabench](https://www.codabenc
 ├── reg.ipynb                               # Regularization techniques applied to ffNNs
 ├── cnn.ipynb                               # Custom Convolutional Neural Network models
 ├── tl.ipynb                                # Transfer Learning using pre-trained ResNet50
-├── ffnn.png                                # Training loss and accuracy curve for ffNN experiments
-├── reg.png                                 # Training loss and accuracy curve for regularized ffNN
-├── cnn.png                                 # Training loss and accuracy curve for CNN models
-├── tl.png                                  # Training loss and accuracy curve for Transfer Learning model
 ├── DeepLearning_JT_AF_ML_finalReport.pdf   # Final project report and analysis
 └── README.md                               # Project overview, methodology, and results summary
 ```
